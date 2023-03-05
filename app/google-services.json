@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345280779325",
+    "project_id": "factechapp",
+    "storage_bucket": "factechapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345280779325:android:6e3e7ccae1a2fbbe64c654",
+        "android_client_info": {
+          "package_name": "com.FatcTech.fatchTechApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345280779325-hmgdaofg0lg3bimfe6o8n7htfo847sn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBgpNl1piptUbFua5VwbZLu-4iT7sp6-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345280779325-hmgdaofg0lg3bimfe6o8n7htfo847sn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
